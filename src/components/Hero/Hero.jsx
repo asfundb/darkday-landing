@@ -53,7 +53,7 @@ function Hero() {
         </div>
       </div>
       <div className="w-screen flex flex-col items-center justify-center pb-10">
-        <div className="mb-4"> Get notified for pre-order</div>
+        <div className="mb-4 text-sm">GET NOTIFIED FOR THE DROP</div>
         <div className="flex items-center ">
           <form action="submit" onSubmit={addSubscriber}>
             <input
